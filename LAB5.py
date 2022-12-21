@@ -1,3 +1,4 @@
+
 class Rocket():
 	def __init__(self, mass, fuel, engine):
 		self.mass = mass
